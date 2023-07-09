@@ -19,10 +19,12 @@ h1 {
 }
 
 .breed-container {
+  height: 50px;
   display: flex;
   align-items: center;
   justify-content: center;
   margin-bottom: 2rem;
+  background-image: linear-gradient(to right, rgb(160, 238, 228), rgb(235, 255, 124));
 }
 
 .breed-select,
