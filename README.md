@@ -7,4 +7,4 @@ So, they want to show the dropdown for the sub-breeds only when they are availab
 
 They have documented the latest changes to their dog API - https://dog.ceo/dog-api/documentation/ 
 
-Hosted link :- https://rakeshmohantarai.github.io/Dog-Gallery-Coding-Ninjas/
+Hosted link :- https://rakeshmohantarai.github.io/Dog-Details-Breed-Wise-Coding-Ninjas/
